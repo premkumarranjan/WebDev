@@ -1,0 +1,27 @@
+First day of the web development bootcamp i have learned about the basics and fundamentals of the internet.
+
+The topics which I have learned over this session are the following.
+
+Domain
+Domain means that specific to the internet, the term domain can refer to how the internet is structured, 
+and domain also refers to how an organization's network resources are organized. 
+
+DNS 
+The domain name system (DNS) is a naming database in which internet domain 
+names are located and translated into Internet Protocol (IP) addresses.
+
+HTTP/HTTPS
+HTTP stands for Hypertext Transfer Protocol. It is certain set of rules which the 
+client and the server both have to follow to set up a succesful communication. 
+HTTPS stand for Hypertext Transfer Protocol Secured. It is used to used to transfer encrypted data. 
+We can not send encrypted data in HTTP as it lacks security.
+
+Ports and Port Numbers
+A port number is a way to identify a specific process to which an internet or
+other network message is to be forwarded when it arrives at a server. 
+
+Request Methods
+The most commonly used HTTP request methods are GET, POST, PUT, PATCH, and DELETE. 
+These are equivalent to the CRUD operations (create, read, update, and delete). GET: GET request is used to read/retrieve data from a web server.
+
+
